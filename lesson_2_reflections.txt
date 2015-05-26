@@ -1,0 +1,9 @@
+What happens when you initialize a repository?  Why do you need to do it?
+
+ is generated an empty repository for the contents of the folder where we have executed the init.
+ At this moment we can add files and create new commits to the existing repository.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+  the staging area is an intermediate area between the working directory a a commit. In this area we have those files we want to add to a commit
