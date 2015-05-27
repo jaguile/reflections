@@ -7,3 +7,13 @@ What happens when you initialize a repository?  Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
   the staging area is an intermediate area between the working directory a a commit. In this area we have those files we want to add to a commit
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+  
+  because you don't commit until you haven't added all the files referrede to a logical change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+    Para qué o cuándo crearlas? Normalmente un repositorio va creciendo de manera lineal a medida que se van añadiendo funcionalidades en un proyecto, arreglando bugs, generando documentación. Las ramas, en cambio, son cuando se genera una ruptura o una bifurcación muy grande en el código como, por ejemplo, tener una nueva versión del codigo en desarrollo para experimentar, o porque se ha hecho la entrega de una fase del proyecto y se crea una rama para el desarrollo de la siguiente fase y se tiene otra para el mantenimiento de la que ya se ha finalizado.
+
