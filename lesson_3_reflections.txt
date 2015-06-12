@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+  maybe you don't work only in one computer so you must have the repository centralized in a place that is always avalailable.
+  Or maybe you don't work along, so your repository has to be available for other persons too.
+  
