@@ -12,3 +12,7 @@ Describe the differences between forks, clones, and branches. When would you use
 	- fork: it's a clone from a GitHup repository onto another GitHup repository.
 	- clone: A copy of a repository 
 	- branch: it's a bifurcation in the same repository. You use a branch to star a modification from an original repository that you will apply on the original in the future.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	you can view the differences of both branches, remote and local, and having them separetily
